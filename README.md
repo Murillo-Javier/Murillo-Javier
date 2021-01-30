@@ -1,9 +1,9 @@
 # Hi there, I'm Murillo Javier<img src="https://media3.giphy.com/media/RJPIsQasw54INPJ7yv/giphy.gif"  width="40px" height="40px">
 
 
--Meu nome é Murillo Javier. Tenho 13 anos e estou em contato com programação há 1 ano.
--Obtive meu certificado Python aos 12 anos de idade.
--Atualmente estou mais focado em front-end, mas um dia quem sabe me tornarei um desenvolvedor full stack.
+- Meu nome é Murillo Javier. Tenho 13 anos e estou em contato com programação há 1 ano.
+- Obtive meu certificado Python aos 12 anos de idade.
+- Atualmente estou mais focado em front-end, mas um dia quem sabe me tornarei um desenvolvedor full stack.
 
 
 
