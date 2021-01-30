@@ -1,4 +1,4 @@
-# Hi there, I'm Murillo Javier <img src="https://media3.giphy.com/media/RJPIsQasw54INPJ7yv/giphy.gif"  width="30px" height="30px">
+# Hi there, I'm Murillo Javier <img src="https://media3.giphy.com/media/RJPIsQasw54INPJ7yv/giphy.gif"  width="40px" height="40px">
 
 - **Favorite Languages:** <br>
 Python <br>
