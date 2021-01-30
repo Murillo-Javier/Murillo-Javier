@@ -1,4 +1,4 @@
-# Hi there, I'm Murillo Javier <img src="https://media3.giphy.com/media/RJPIsQasw54INPJ7yv/giphy.gif" alt="Autocolante Stop Motion Days por Tommy Perez" style="width: 30px; height: 30px; left: 0px; top: 0px;">
+# Hi there, I'm Murillo Javier <img src="https://media3.giphy.com/media/RJPIsQasw54INPJ7yv/giphy.gif"  width="30px" height="30px">
 
 - **Favorite Languages:** <br>
 Python <br>
