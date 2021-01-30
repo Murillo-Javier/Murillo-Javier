@@ -1,5 +1,10 @@
 # Hi there, I'm Murillo Javier<img src="https://media3.giphy.com/media/RJPIsQasw54INPJ7yv/giphy.gif"  width="40px" height="40px">
 
+
+Olá tenho 13 anos e gosto de programar desde os 12 anos, possuo certificado em linguagem python, conheço HTML CSS JavaScript.
+
+
+
 - **Favorite Languages:** <br>
 Python <br>
 HTML, CSS <br>
