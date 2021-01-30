@@ -12,8 +12,8 @@ Python <br>
 HTML, CSS <br>
 Javascript
 
-<font style="vertical-align: inherit;">linguagens que aprendidas</font>
-
+**linguagens que aprendidas**
+>
 <img alt="css3" src="https://camo.githubusercontent.com/3e174760f040ff72a1350d8a0355cf43ebede6411caac0d79c20bb7206991f15/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f637373332d6f726967696e616c2e7376673f73697a653d333626636f6c6f723d63757272656e74436f6c6f72" data-canonical-src="https://icongr.am/devicon/css3-original.svg?size=36&amp;color=currentColor" style="max-width:100%;"><img alt="html5" src="https://camo.githubusercontent.com/9d31fe49d852d2c0c138d6726bb6367ebbb83662dff601baf2b8c11440efa07a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f68746d6c352d6f726967696e616c2e7376673f73697a653d333626636f6c6f723d63757272656e74436f6c6f72" data-canonical-src="https://icongr.am/devicon/html5-original.svg?size=36&amp;color=currentColor" style="max-width:100%;">
 
 
