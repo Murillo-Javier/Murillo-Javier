@@ -1,9 +1,9 @@
-# Hi there, I'm <br> Murillo Javier<img src="https://media3.giphy.com/media/RJPIsQasw54INPJ7yv/giphy.gif"  width="40px" height="40px"> 
+# Hi there, My name is Murillo Javier<img src="https://media3.giphy.com/media/RJPIsQasw54INPJ7yv/giphy.gif"  width="40px" height="40px"> 
 
 
-Meu nome é Murillo Javier. Tenho 13 anos e estou em contato com programação há 1 ano.<br>
-Obtive meu certificado Python aos 12 anos de idade. <br>
-Atualmente estou mais focado em front-end, mas um dia quem sabe me tornarei um desenvolvedor full stack.<br>
+My name is Murillo Javier. I'm 13 years old and I've been in touch with programming for 1 year.<br>
+I obtained my Python certificate at the age of 12. <br>
+I am currently more focused on front-end, but one day maybe I'll become a full stack developer.<br>
 
 
 
