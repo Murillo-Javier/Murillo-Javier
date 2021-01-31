@@ -18,3 +18,5 @@ Javascript<br>
 
 
 <img src="https://camo.githubusercontent.com/819faac558752eeb0aabb5f62e69597b8ae5c524e8074ed0eff369649a6f6003/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f67554e413751483441654c64652f67697068792e676966" width="400px" align="right" alt="Computador iuriCode" data-canonical-src="https://media0.giphy.com/media/gUNA7QH4AeLde/giphy.gif" style="max-width:100%;">
+
+<img align="center" src="https://camo.githubusercontent.com/2e2db80f628849c527eacdd9eea575271d78186857ef0c9d73a82e8dbb221be9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d617274696e7332302673686f775f69636f6e733d7472756526686964655f626f726465723d74727565" alt="martins20's Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=martins20&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;">
