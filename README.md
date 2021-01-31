@@ -8,7 +8,6 @@ Atualmente estou mais focado em front-end, mas um dia quem sabe me tornarei um d
 
 
 - **Favorite Languages:** <br>
-Python <br>
 HTML, CSS <br>
 Javascript
 
