@@ -18,6 +18,8 @@ Javascript<br>
 
 - **Ferramenta usada**
 
+  <img height="32" src="https://camo.githubusercontent.com/97f8c7c8c12c3fea0861c0586d119d35578f25def484b09c315620dac01f4b13/68747470733a2f2f692e696d6775722e636f6d2f5271395455524c2e706e67" alt="Visual Studio Code" data-canonical-src="https://i.imgur.com/Rq9TURL.png" style="max-width:100%;">                                                            <img aria-label=":Windows:" src="https://cdn.discordapp.com/emojis/804440507367424000.png?v=1" alt=":Windows:" draggable="false" class="emoji" width="30px">
+
 
 <img src="https://camo.githubusercontent.com/819faac558752eeb0aabb5f62e69597b8ae5c524e8074ed0eff369649a6f6003/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f67554e413751483441654c64652f67697068792e676966" width="300px" align="right" alt="Computador iuriCode" data-canonical-src="https://media0.giphy.com/media/gUNA7QH4AeLde/giphy.gif" style="max-width:100%;">
 
