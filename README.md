@@ -1,4 +1,4 @@
-# Hi there, I'm Murillo Javier <br> <img src="https://media3.giphy.com/media/RJPIsQasw54INPJ7yv/giphy.gif"  width="40px" height="40px"> 
+# Hi there, I'm <br> Murillo Javier<img src="https://media3.giphy.com/media/RJPIsQasw54INPJ7yv/giphy.gif"  width="40px" height="40px"> 
 
 
 Meu nome é Murillo Javier. Tenho 13 anos e estou em contato com programação há 1 ano.<br>
