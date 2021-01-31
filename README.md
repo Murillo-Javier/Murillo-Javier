@@ -8,8 +8,9 @@ Atualmente estou mais focado em front-end, mas um dia quem sabe me tornarei um d
 
 
 - **Favorite Languages:** <br>
-HTML, CSS <br>
-Javascript
+HTML <br>
+CSS <br>
+Javascript<br>
 
 **linguagens que aprendidas**
 
