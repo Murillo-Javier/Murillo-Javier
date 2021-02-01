@@ -2,8 +2,8 @@
 
 
 My name is Murillo Javier. I'm 13 years old and I've been in touch with programming for 1 year.<br>
-I obtained my Python certificate at the age of 12 years. <br>
-I went to the first English school at the age of 7 years. <br>
+I obtained my Python certificate at the age of 12. <br>
+I had the first English classes at the age of 7. <br>
 I am currently more focused on front-end, but one day maybe I'll become a full stack developer.<br>
 
 
