@@ -24,7 +24,11 @@ Javascript<br>
   - **DevOps** <br>
   
   <img height="32" src="https://camo.githubusercontent.com/d3563008ac544a830a26cd54e8add19decb3299ef11712c071b44c8d01ec8ac2/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f696e6669636f6e732f3531322f6769746875622e706e67" alt="GitHub" data-canonical-src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" style="max-width:100%;"><img height="32" src="https://camo.githubusercontent.com/ce9c7a173f38722e129d5ae832a11c928ff72683fae74cbcb9fff41fd9957e63/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3130323470782d4769745f69636f6e2e7376672e706e67" alt="Git" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" style="max-width:100%;">
-
+  
+ 
+<a href="https://www.instagram.com/murillojavier12/?hl=pt-br" rel="nofollow">
+  <code><img alt="My instagram" width="28" src="https://camo.githubusercontent.com/21590b9e680ee36733a160a3c4ff540e86399150246897612d1c57ccb5d6fa92/68747470733a2f2f75706c6f61642d69636f6e2e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f69636f6e732f706e672f363539303535383234313536313033323636392d36342e706e67" data-canonical-src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/6590558241561032669-64.png" style="max-width:100%;"></code>
+</a>
 
 <img src="https://camo.githubusercontent.com/819faac558752eeb0aabb5f62e69597b8ae5c524e8074ed0eff369649a6f6003/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f67554e413751483441654c64652f67697068792e676966" width="300px" align="right" alt="Computador iuriCode" data-canonical-src="https://media0.giphy.com/media/gUNA7QH4AeLde/giphy.gif" style="max-width:100%;">
 
