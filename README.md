@@ -21,7 +21,7 @@ Javascript<br>
 
   <img height="32" src="https://camo.githubusercontent.com/97f8c7c8c12c3fea0861c0586d119d35578f25def484b09c315620dac01f4b13/68747470733a2f2f692e696d6775722e636f6d2f5271395455524c2e706e67" alt="Visual Studio Code" data-canonical-src="https://i.imgur.com/Rq9TURL.png" style="max-width:100%;">                                                            <img aria-label=":Windows:" src="https://cdn.discordapp.com/emojis/804440507367424000.png?v=1" alt=":Windows:" draggable="false" class="emoji" width="30px">
   
-  - **DevOps
+  -**DevOps
   
 <img height="32" src="https://camo.githubusercontent.com/d3563008ac544a830a26cd54e8add19decb3299ef11712c071b44c8d01ec8ac2/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f696e6669636f6e732f3531322f6769746875622e706e67" alt="GitHub" data-canonical-src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" style="max-width:100%;">
 
